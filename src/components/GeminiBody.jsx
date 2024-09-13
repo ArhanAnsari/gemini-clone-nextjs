@@ -32,7 +32,7 @@ const GeminiBody = () => {
             <div className="my-12 text-5xl font-medium p-5">
               <p>
                 <span className="font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-400">
-                  Hello, Mehtab kazmi
+                  Hello, Arhan Ansari
                 </span>
               </p>
               <p>How can I help you today?</p>
